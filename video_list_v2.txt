@@ -17,7 +17,7 @@
 		},
 		{	
 			"LIST_VIDEO_NAME": "COLOR SONGS",
-			"LIST_VIDEO_SIZE": "14",
+			"LIST_VIDEO_SIZE": "13",
 			"LIST_VIDEO_ICON": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC6uiIq1n8yJuIllRR0nDNuUvmkl5d_qibOSBkUTU0gFZU32MzIA",
 			"LIST_VIDEO_ID": "PLb_1RRxIZTLJ-v1q3QV7h38GznQ32BqoL",			
 			"LIST_VIDEO_JSON_LINK": "https://raw.githubusercontent.com/vedau262/KidVideo/master/Json/COLOR%20SONGS",	
@@ -129,3 +129,4 @@
 		}		
 			
 	]
+
